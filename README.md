@@ -1,24 +1,25 @@
 <h1 align="center">Bobby Gupta</h1>
 
-# 💫 About Me:
-
-## 👋 Hello, I'm Bobby Gupta
-🎓 I graduated in Accounting & Finance (2020), but my true calling led me into the world of software development.
-💻 To pursue this path, I joined Swabhav Techlabs, where I received hands-on training in:
-
-✅ Core Java, Advanced Java
-✅ Spring Boot (REST APIs, backend development)
-✅ Angular (frontend framework)
-
-🚀 I'm Looking Forward To:
-
-🌱 Learning and growing as a full-stack developer
-🤝 Contributing to real-world projects and collaborating with tech teams
-💼 Starting my career in a challenging and growth-driven software development role
-
-✨ Fun Fact:
+## 💫 About Me
+ 
+👋 Hello, I'm Bobby Gupta
+ 
+🎓 I graduated in Accounting & Finance (2020), but my true calling led me into the world of **software development**.
+ 
+💻 To pursue this path, I joined **Swabhav Techlabs**, where I received hands-on training in:
+- ✅ Core Java, Advanced Java
+- ✅ Spring Boot (REST APIs, backend development)
+- ✅ Angular (frontend framework)
+ 
+## 🚀 I'm Looking Forward To:
+- 🌱 Learning and growing as a full-stack developer
+- 🤝 Contributing to real-world projects and collaborating with tech teams
+- 💼 Starting my career in a challenging and growth-driven software development role
+ 
+---
+ 
+## ✨ Fun Fact:
 I love turning complex problems into clean, working code — and enjoy cracking a good joke while I'm at it! 😄
-<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bobby.002_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bobby-gupta-4043a41b3/) [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Bobbygupta0089@gmail.com)
